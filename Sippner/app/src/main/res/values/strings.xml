@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sippner</string>
+    <string name="selected_item">Selected item: </string>
+
+    <string-array name="Languages">
+        <item>Cocacola</item>
+        <item>Pepsi</item>
+        <item>Fanta</item>
+        <item>7 up</item>
+        <item>Warrior</item>
+    </string-array>
+</resources>
